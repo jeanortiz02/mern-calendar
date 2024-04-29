@@ -22,7 +22,6 @@ export const useUiStore = ()=> {
 
     return {
         //* Properties
-        
         isDateModalOpen,
 
         //* Methods
